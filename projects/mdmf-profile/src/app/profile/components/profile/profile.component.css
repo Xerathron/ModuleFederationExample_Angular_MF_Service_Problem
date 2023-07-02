@@ -1,0 +1,11 @@
+.container {
+  padding: 3px;
+}
+
+h2 {
+  color: cadetblue;
+}
+
+.clicked {
+  background-color: red;
+}
