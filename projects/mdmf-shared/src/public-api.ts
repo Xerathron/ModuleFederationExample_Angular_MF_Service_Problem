@@ -4,3 +4,4 @@
 
 export * from './lib/services/mdmf-shared.service';
 export * from './lib/modules/mdmf-shared.module';
+export * from './lib/components/button.component';
